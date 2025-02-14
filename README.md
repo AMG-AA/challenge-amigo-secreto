@@ -33,6 +33,8 @@ Para ejecutar esta aplicación necesitarás tener instalado un navegador web mod
 4. Una vez que se hayan ingresado todos los nombres, se debe hacer click en "Sortear Amigo" para seleccionar aleatoriamente un nombre de la lista.
 5. El nombre seleccionado se mostrará en la página!!.
 
+![Uso de la aplicacion](assets/ChallengeAmigoSecreto-ONE.gif/)
+
 ## Tecnologías
 
 - `index.html`: Contiene la estructura básica HTML de la aplicación.
